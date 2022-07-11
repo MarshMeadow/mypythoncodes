@@ -1,0 +1,2 @@
+human = True
+print("Are you a human: "+str(human))
